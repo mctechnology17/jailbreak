@@ -1,0 +1,8 @@
+Origin: Xavi3G Repo
+Label: Xavi3G
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Los mejores tweak en una misma repo!!!

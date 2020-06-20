@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Sígueme en Twitter</name>
+			<url>https://twitter.com/mctechnology17</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Visita el canal de youtube</name>
+			<url>https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+	</footerlinks>
+</repo>
