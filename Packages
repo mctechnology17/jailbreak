@@ -1,7 +1,7 @@
 Package: com.mctechnology.rpetrich.powercuff
 Version: 0.1
 Section: Tweaks
-Maintainer: xavi3g <jagr26@gmail.com>
+Maintainer: mctechnology 
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Architecture: iphoneos-arm
 Filename: ./debs/com.mctechnology.rpetrich.powercuff.deb
@@ -20,7 +20,7 @@ SHA256: 2db9201502e353403b42cc2f806ed6b6e6525365d434cda3a84a2823bf10a5b3
 Package: com.mctechnology.zx02.frame
 Version: 2.0.0-beta2
 Section: Wallpaper
-Maintainer: xavi3g <jagr26@gmail.com>
+Maintainer: mctechnology
 Depends: mobilesubstrate,preferenceloader,firmware (>= 12.1.99)
 Architecture: iphoneos-arm
 Filename: ./debs/com.mctechnology.zx02.frame_2.0.0-beta2_iphoneos-arm.deb
