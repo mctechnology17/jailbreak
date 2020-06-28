@@ -1,0 +1,18 @@
+<package>
+	<id>com.mctechnology.uiactivityindicatorrepo</id>
+	<name>UI Activity Indicator Repo</name>
+    <version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description> Brings a cool look to your iPhone and leave the boredom! Designed for UI lovers!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -35,3 +35,12 @@ Tag: purpose::wallpaper
 MD5sum: 6f696023d3f1a0d9d96c34eced542518
 SHA1: 8ad3833af3941836727148068c208bf43bc4e941
 SHA256: 3871dc7dbb615e3e96d6559274e9d65bdff517cb7814f5d33db361e450a9cb58
+
+Package: com.mctechnology.uiactivityindicatorrepo
+Section: Themes
+Maintainer: MCTechnology <https://t.me/mctechnology>
+Architecture: iphoneos-arm
+Version: 1.1
+Description: UI Activity Indicator!
+Name: UI Activity Indicator Repo
+Author: MC Technology <https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber>
