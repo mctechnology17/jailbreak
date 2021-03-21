@@ -6,9 +6,39 @@
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>Visita el canal de youtube</name>
+			<name>Suscribete, visita y comparte mi canal de YouTube</name>
 			<url>https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw</url>
 			<iconclass>fa fa-youtube</iconclass>
+		</link>
+		<link>
+			<name>Dale me gusta y comparte mi pagina de Facebook</name>
+			<url>https://m.facebook.com/mctechnology17/</url>
+			<iconclass>fa fa-facebook</iconclass>
+		</link>
+		<link>
+			<name>Sígueme en Instagram</name>
+			<url> https://www.instagram.com/mctechnology17/</url>
+			<iconclass>fa fa-instagram</iconclass>
+		</link>
+		<link>
+			<name>Sígueme en Twitch</name>
+			<url>https://www.twitch.tv/mctechnology17</url>
+			<iconclass>fa fa-twitch</iconclass>
+		</link>
+		<link>
+			<name>Sígueme en TikTok</name>
+			<url>https://www.tiktok.com/@mctechnology17</url>
+			<iconclass>fa fa-tiktok</iconclass>
+		</link>
+		<link>
+			<name>Telegram oficial</name>
+			<url>https://t.me/mctechnology</url>
+			<iconclass>fa fa-twitch</iconclass>
+		</link>
+		<link>
+			<name>Pagína Web</name>
+			<url>https://mctechnology17.com</url>
+			<iconclass>fa fa-web</iconclass>
 		</link>
 	</footerlinks>
 </repo>
