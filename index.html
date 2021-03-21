@@ -8,12 +8,18 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta charset="utf-8">
+        <link rel="stylesheet" href="depictions/style.css">
 </head>
+<header>
+
+</div>
+</header>
 <script src="jquery-3.5.1.min.js"></script>
 <script src="description.js?_=f"></script>
 <body onload="loadPackageInfo();loadPackages();">
 	<main id="content">
 		<span id="showAddRepo_" hidden>
+                  <h3><img src="image/perfil.JPG" class="img-thumbnail" width="100px" height="100px" alt="">  MC Technology </h3>
                   <h2 role="header">MC Technology's Repo</h2>
 			<ul>
 				<li class="has-icon">
@@ -48,7 +54,7 @@
 			<li><p>Updated<span class="value" id="pkg_time">-</span></p></li>
 			</ul>
 		</span>
-		<h2 role="header">Social</h2>
+		<h2 role="header">Síguene en mis redes</h2>
 		<ul>
 			<li class="has-icon">
                           <a href="https://mctechnology17.github.io" target="_blank" role="button">
@@ -63,10 +69,26 @@
 				</a>
 			</li>
 			<li class="has-icon">
+                          <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank" role="button">
+					<img style = "border-radius: 20%;" href="youtube.png" alt="" srcset="youtube.png 2x, youtube.png 3x" class="icon"/>
+					<label>Suscríbete aquí</label>
+				</a>
+			</li>
+			<li class="has-icon">
 				<a href="https://twitter.com/mctechnology17" target="_blank" role="button">
 					<img style = "border-radius: 20%;" href="twitter.png" alt="" srcset="twitter.png 2x, twitter.png 3x" class="icon"/>
-					<label>Follow MC Technology</label>
+					<label>Seguíme aquí</label>
 				</a>
+			</li>
+		</ul>
+		<h2 role="header">¡Aquí puedes apoyarme directamente!</h2>
+		<ul>
+			<li class="has-icon">
+                          <a href="https://www.paypal.com/paypalme/mctechnology17" target="_blank" role="button">
+					<img style = "border-radius: 20%;" href="paypal.png" alt="" srcset="paypal.png 2x, paypal.png 3x" class="icon"/>
+					<label>PayPal</label>
+				</a>
+			</li>
 			</li>
 			<li class="has-icon">
 				<a href="https://www.patreon.com/mctechnology" target="_blank" role="button">
@@ -75,12 +97,12 @@
 				</a>
 			</li>
 		</ul>
-		<h2 role="header">Donate</h2>
+
+		<h2 role="header">¿No te gusta el tema? ¡Cambiálo aquí!</h2>
 		<ul>
-			<li class="has-icon">
-                          <a href="https://www.paypal.com/paypalme/mctechnology17" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="paypal.png" alt="" srcset="paypal.png 2x, paypal.png 3x" class="icon"/>
-					<label>PayPal</label>
+			<li>
+				<a onclick="toogleTheme();" role="button">
+					<p>Change Theme</p>
 				</a>
 			</li>
 		</ul>
