@@ -1,12 +1,12 @@
 # MC Technology Repo
 ## English:
-Opens Cydia, Sileus, Zebra or Installer
-Go to sources and give it to edit or add
-Add "https://mctechnology17.github.io/" "
-Wait for the sources to load
-Ready Now you can start installing the packages of your preference.
+1. Opens Cydia, Sileus, Zebra or Installer
+2. Go to sources and give it to edit or add
+3. Add "https://mctechnology17.github.io/"
+4. Wait for the sources to load
+5. Ready Now you can start installing the packages of your preference.
 ## Español:
-Abre Cydia, Sileo, Zebra o Installer
+1. Abre Cydia, Sileo, Zebra o Installer
 Ir a Fuentes y darle a editar o añadir
 Agregar "https://mctechnology17.github.io/"
 Espera a que carguen las fuentes
