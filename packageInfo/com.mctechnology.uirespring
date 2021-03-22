@@ -5,4 +5,5 @@
 	"compatitle": "UI Glitch",
 	"changelog": "<strong>1.0</strong><br>+ Initial Release.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='uirespring.JPG' target='_blank'><img width=95% src='image/uirespring.JPG'/></a><br></div>",
+	"open": true,
 }
