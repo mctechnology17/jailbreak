@@ -1,16 +1,18 @@
 Package: com.mctechnology.uiactivityindicatorrepo
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: MCTechnology <https://t.me/mctechnology>
+Maintainer: MC Technology
 Filename: ./debfiles/com.mctechnology.uiactivityindicatorrepo_1.1_iphoneos-arm.deb
-Size: 16938046
-MD5sum: f9ed58d0284a041c88a8ffbf77c96fb3
-SHA1: 5de871bd3758227853e875f9807c4c460a86bf01
-SHA256: 4b68090cb607d2826facb54fd859f250464f2f145d3c3431f4b9cfe03d7d1687
+Size: 16938106
+MD5sum: 78e5a13dca673227d7363b42e6a25fb5
+SHA1: de44a7b84d6d5c3df60c092f88edb7cab364da79
+SHA256: 6c13b49becf652ccd84ad248550987f0b7ae281b61a580866ebb54106d63ec10
 Section: Themes
-Description: UI Activity Indicator!
-Author: MC Technology <https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber>
-Name: UI Activity Indicator Repo
+Homepage: https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber
+Description: Las mejores animaciones de carga
+Author: MC Technology
+Depiction: http://mctechnology17.github.io/description.html?id=com.mctechnology.uirespring
+Name: UI Activity Indicator
 
 Package: com.mctechnology.uirespring
 Version: 1.0
