@@ -26,39 +26,3 @@ Description: UI Respring
 Author: MC Technology <https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber>
 Name: UI Respring
 
-Package: com.rpetrich.powercuff
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 156
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./debs/com.mctechnology.rpetrich.powercuff.deb
-Size: 14110
-MD5sum: 20676903d560ec8858c3519fb8068b4c
-SHA1: ae545399ea40c295cbd06aa503b40372bbd525fe
-SHA256: 2db9201502e353403b42cc2f806ed6b6e6525365d434cda3a84a2823bf10a5b3
-Section: Tweaks
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states
-Tag: purpose::extension
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Depiction: http://rpetri.ch/cydia/powercuff/
-Dev: rpetrich
-Name: Powercuff
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.yourepo.zx02.frame
-Version: 2.0.0-beta2
-Architecture: iphoneos-arm
-Maintainer: Zerui Chen <chenzerui2002@gmail.com>
-Depends: mobilesubstrate,preferenceloader,firmware (>= 12.1.99)
-Filename: ./debs/com.mctechnology.zx02.frame_2.0.0-beta2_iphoneos-arm.deb
-Size: 1071564
-MD5sum: 6f696023d3f1a0d9d96c34eced542518
-SHA1: 8ad3833af3941836727148068c208bf43bc4e941
-SHA256: 3871dc7dbb615e3e96d6559274e9d65bdff517cb7814f5d33db361e450a9cb58
-Section: Wallpaper
-Description: Bring your iDevice to life with true video wallpapers.
-Author: Zerui Chen <chenzerui2002@gmail.com>
-Name: Frame
-
