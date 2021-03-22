@@ -1,8 +1,10 @@
-Origin: MC Technology
+Origin: MC Technology's Repo
 Label: MC Technology
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
+Codename: MC Technology
+Architecture: iphoneos-arm
 Components: main
-Description: Los mejores tweaks en una misma repo!!!
+Description: MC Technology's Tweaks
+MD5Sum:
+ 80e7d8d3ade07c5cfe57a99b94a280ec 16777222
