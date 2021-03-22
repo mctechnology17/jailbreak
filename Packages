@@ -2,7 +2,7 @@ Package: com.mctechnology.uiactivityindicatorrepo
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: MCTechnology <https://t.me/mctechnology>
-Filename: ./debs/com.mctechnology.uiactivityindicatorrepo_1.1_iphoneos-arm.deb
+Filename: ./debfiles/com.mctechnology.uiactivityindicatorrepo_1.1_iphoneos-arm.deb
 Size: 16938046
 MD5sum: f9ed58d0284a041c88a8ffbf77c96fb3
 SHA1: 5de871bd3758227853e875f9807c4c460a86bf01
@@ -15,14 +15,16 @@ Name: UI Activity Indicator Repo
 Package: com.mctechnology.uirespring
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: MC Technology <https://t.me/mctechnology>
-Filename: ./debs/com.mctechnology.uirespring_1.0_iphoneos-arm.deb
-Size: 29407314
-MD5sum: ecf5ffd80bea438d55022451059dda95
-SHA1: 353f79a318f24807c4d54d85fdb56d933f3494f8
-SHA256: 065dfc303f12d177d702a8baf4e77f38e08b754bd36eb71e5fbd536587af2843
+Maintainer: MC Technology
+Filename: ./debfiles/com.mctechnology.uirespring_1.0_iphoneos-arm.deb
+Size: 29407362
+MD5sum: 626b2101f0ce17fa2d26ac34ff09227b
+SHA1: c5ade60412516eb75724974d192d8bcc4c26cef1
+SHA256: bd3e3bf3cdf7eb80f4f3383cc011319dbc3af0449fef104b84bd4af97a3e5766
 Section: Themes
-Description: UI Respring
-Author: MC Technology <https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber>
+Homepage: https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber
+Description: Las mejores animaciones para repring
+Author: MC Technology
+Depiction: http://mctechnology17.github.io/description.html?id=com.mctechnology.uirespring
 Name: UI Respring
 
