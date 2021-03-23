@@ -1,3 +1,21 @@
+Package: com.mctechnology.coolcydia
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: MC Technology
+Depends: cydia (>> 1.1.27), mobilesubstrate, cy+cpu.arm64
+Conflicts: com.laughingquoll.turkey, com.julioverne.fastuprepo2
+Filename: ./debfiles/com.mctechnology.cydia_0.0.1_iphoneos-arm.deb
+Size: 49392
+MD5sum: 48b8e9dd79b328c9554895f6ef3a5c0e
+SHA1: 566bdfe9c5c95aa2b4c29fe9a700eab8020c4a9a
+SHA256: 3c2d253c734c78ba07aea0f8b571fd5025c613f2223e93d200247bdb282049e8
+Section: Tweaks
+Homepage: https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber
+Description: Different configurations for Cydia
+Author: MC Technology
+Depiction: http://mctechnology17.github.io/description.html?id=com.mctechnology17.coolcydia
+Name: Cool Cydia
+
 Package: com.mctechnology.uiactivityindicatorrepo
 Version: 1.1
 Architecture: iphoneos-arm
